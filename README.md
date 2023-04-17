@@ -1,14 +1,20 @@
 # Game-Of-War
 
 The way that the program works is that is made up of 7 different stacks that passes a number of cards based of how it progresses 
-
+\n
 Stacks: 
 1 inital main deck of 52 cards
+\n
 2 player deck
+\n
 3 computer deck
+\n
 4 player discard pile
+\n
 5 computer discard pile
+\n
 6 player war set up
+\n
 7 computer war set up 
 
 
